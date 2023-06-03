@@ -1,0 +1,29 @@
+body {
+  min-height: 3000px;
+}
+
+.jumbotron {
+  padding-top: 5rem;
+  background-image: url(img/lorenzo-herrera-p0j-mE6mGo4-unsplash.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+#Projects {
+  background-image: url(img/xenia-radchenko-ezEn4jYrVYQ-unsplash.jpg);
+  background-position: left;
+  background-size: cover;
+}
+
+.created .bi {
+  color: #42b9c1;
+  border: 1px;
+}
+
+.card:hover {
+  box-shadow: 0 5px 30px 5px rgba(0, 0, 0, 0.8);
+}
+
+#contactme:hover {
+  box-shadow: 0 5px 30px 5px rgba(0, 0, 0, 0.8);
+}
